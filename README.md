@@ -7,3 +7,4 @@ Function Transformer is part of feature engineering it converts probability dens
 ![qqplot-3](https://user-images.githubusercontent.com/68773015/165287278-3b8c74d3-e6a3-411f-838c-cc44c6694871.png)
 ![qqplot-4](https://user-images.githubusercontent.com/68773015/165287280-53f9fe27-0934-45c6-bb69-795fd9d58afe.png)
 ![qqplot-5](https://user-images.githubusercontent.com/68773015/165287283-5b050a96-7dc4-4728-a6f8-b254bbaed6b9.png)
+![qq plot-5](https://user-images.githubusercontent.com/68773015/165287427-51f62637-932b-4f7b-9c3f-d79f30533ebd.png)
