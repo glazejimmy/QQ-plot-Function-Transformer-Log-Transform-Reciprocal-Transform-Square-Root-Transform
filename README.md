@@ -1,5 +1,6 @@
 # QQ-plot-Function-Transformer-Log-Transform-Reciprocal-Transform-Square-Root-Transform
 Function Transformer is part of feature engineering it converts probability density function to normal distribution
+
 ![function transformer](https://user-images.githubusercontent.com/68773015/165288001-da26a886-0af4-4a12-8129-49a19eab80ac.png)
 # credits:https://www.youtube.com/watch?v=cTjj3LE8E90&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&index=30
 ## what is QQplot
